@@ -1,0 +1,5 @@
+untuk membuka laravel
+
+localhost:8000/post
+
+C=>htdocs=>blog
